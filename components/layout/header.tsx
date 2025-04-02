@@ -39,7 +39,7 @@ export default function Header() {
         <div className="flex items-center justify-between">
           <Link href="/" className="text-xl font-bold">
             <motion.div initial={{ opacity: 0, y: -20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.5 }}>
-              Bekpolat<span className="text-primary">.dev</span>
+              Bekforever<span className="text-primary">.dev</span>
             </motion.div>
           </Link>
 
