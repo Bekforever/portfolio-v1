@@ -29,7 +29,7 @@ export default function Hero() {
                 </Link>
               </Button>
               <Button asChild variant="outline" size="lg">
-                <a href="/resume.pdf" download="Bekpolat_Aydarbaev_Resume.pdf">
+                <a href="/bekpolat_aydarbaev.pdf" download="Bekpolat_Aydarbaev_Resume.pdf">
                   <Download className="mr-2 h-4 w-4" />
                   Download CV
                 </a>
